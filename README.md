@@ -3,7 +3,7 @@
 I'm Christophe Vilain, a French software engineer. I currently work as a Lead Engineer.  
 I'm mostly into infrastructure : provisioning our cloud, monitoring our production, managing the SSO, CICD chains, and some backend development.  
 
-Most importantly, all my tools use a light theme.  
+In my free time, I'm a volunteer scuba diving instructor at my local scuba club.
 
 ### About Me
 
